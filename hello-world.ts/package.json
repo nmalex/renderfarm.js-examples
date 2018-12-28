@@ -1,0 +1,19 @@
+{
+  "name": "module-test-ts",
+  "version": "1.0.0",
+  "description": "Example of renderfarm.js client in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc & node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "renderfarm": "^1.0.13"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  }
+}
