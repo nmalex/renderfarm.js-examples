@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "renderfarm": "^1.0.13"
+    "renderfarm": "^1.0.14"
   }
 }

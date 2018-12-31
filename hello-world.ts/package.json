@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "renderfarm": "^1.0.13"
+    "renderfarm": "^1.0.16"
   },
   "devDependencies": {
     "@types/node": "^10.12.18"
